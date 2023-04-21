@@ -48,7 +48,7 @@ Data Visualization - PowerBI
 
 -The average tenure for each department is about 8 years with Leagal and Auditing having          the highest and Servuces,Sales and Marketing having the lowest.
 
-# Limations
+# Limitations
 
 -Some records had negative ages and these were excluded during quering(967 records). Ages used were 18 years and above.
 
